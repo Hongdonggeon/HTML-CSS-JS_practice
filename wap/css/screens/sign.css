@@ -1,0 +1,34 @@
+.sign{
+   box-sizing: border-box;
+   width: 200px;
+   height: 70px; 
+   color: var(--font-color);
+   font-size: 20px;
+   font-family: 'Abril Fatface', cursive;
+   font-family: 'Merriweather', serif;
+   text-align: center;
+   left: 1700px;
+   padding: 30px 10px 0px;
+   position: absolute;
+ 
+}
+.sign__list{
+   margin-top: 20px;
+   display: none;
+}
+
+.sign__item {
+   padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
